@@ -1,0 +1,3 @@
+#pip install -r requirements.txt
+Django==3.2.23
+mysqlclient==2.2.0
